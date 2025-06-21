@@ -1,0 +1,30 @@
+## Powered by DeepSeek
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+### 开发环境 ###
+.env
+.env.*
+.cache/
+dist/
+build/
+node_modules/
+
+### 编辑器 ###
+.idea/
+.vscode/
+*.suo
+*.log
+*.tmp
+*.bak
+
+### Netlify ###
+.netlify/
